@@ -1,0 +1,16 @@
+_Delay_xms: CODE, 232 0 24
+_Write_EEPROM_u16: CODE, 291 0 15
+_ISR: CODE, 349 0 7
+_EEPROM_Init: CODE, 325 0 8
+_LED_Study_End: CODE, 127 0 15
+_main: CODE, 11 0 85
+_isKeyPressed: CODE, 316 0 9
+_GetADCValue: CODE, 256 0 19
+_GPIO_Init: CODE, 96 0 31
+_Read_EEPROM_u8: CODE, 333 0 8
+_ExchChannel: CODE, 207 0 25
+_System_init: CODE, 341 0 8
+_Read_EEPROM_u16: CODE, 275 0 16
+_Write_EEPROM_u8: CODE, 156 0 26
+_ADC_Init: CODE, 182 0 25
+Total: 321
